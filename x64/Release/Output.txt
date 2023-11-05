@@ -1,0 +1,332 @@
+===========================
+testing_dataset\testdata1.jpg
+   x =  139  y =  115  radius =  36
+   x =  257  y =  235  radius =  40
+   x =  325  y =  189  radius =  40
+   x =  191  y =  183  radius =  41
+   x =  187  y =  253  radius =  30
+   x =  219  y =  103  radius =  40
+   x =  259  y =  163  radius =  30
+   x =  305  y =  119  radius =  29
+   x =  323  y =  255  radius =  31
+Number of coins : 9
+===========================
+testing_dataset\testdata2.png
+   x =  153  y =  85  radius =  41
+   x =  205  y =  183  radius =  53
+   x =  69  y =  101  radius =  37
+   x =  107  y =  269  radius =  41
+   x =  85  y =  173  radius =  46
+Number of coins : 5
+===========================
+testing_dataset\testdata3.PNG
+   x =  227  y =  65  radius =  56
+   x =  333  y =  205  radius =  50
+   x =  273  y =  279  radius =  46
+   x =  125  y =  113  radius =  58
+   x =  213  y =  187  radius =  61
+   x =  113  y =  221  radius =  46
+   x =  325  y =  107  radius =  48
+   x =  189  y =  275  radius =  41
+Number of coins : 8
+===========================
+testing_dataset\testdata4.PNG
+   x =  253  y =  221  radius =  68
+   x =  383  y =  75  radius =  60
+   x =  109  y =  221  radius =  63
+   x =  551  y =  225  radius =  71
+   x =  513  y =  75  radius =  56
+   x =  399  y =  225  radius =  66
+   x =  261  y =  77  radius =  54
+   x =  151  y =  81  radius =  46
+Number of coins : 8
+===========================
+testing_dataset\testdata5.jpg
+   x =  227  y =  221  radius =  61
+   x =  75  y =  221  radius =  64
+   x =  229  y =  79  radius =  63
+   x =  77  y =  79  radius =  59
+Number of coins : 4
+===========================
+testing_dataset\testdata6.jpg
+   x =  115  y =  203  radius =  94
+   x =  327  y =  203  radius =  89
+   x =  537  y =  207  radius =  76
+Number of coins : 3
+===========================
+testing_dataset\testdata7.jpg
+   x =  447  y =  207  radius =  72
+   x =  519  y =  85  radius =  71
+   x =  375  y =  79  radius =  70
+   x =  157  y =  207  radius =  73
+   x =  227  y =  85  radius =  73
+   x =  83  y =  79  radius =  69
+   x =  301  y =  201  radius =  76
+   x =  393  y =  129  radius =  95
+Number of coins : 8
+===========================
+testing_dataset\testdata8.jpg
+   x =  177  y =  45  radius =  37
+   x =  99  y =  45  radius =  37
+   x =  207  y =  171  radius =  32
+   x =  41  y =  115  radius =  32
+   x =  107  y =  115  radius =  32
+   x =  71  y =  173  radius =  33
+   x =  139  y =  173  radius =  32
+   x =  173  y =  115  radius =  32
+Number of coins : 8
+===========================
+testing_dataset\testdata9.jpg
+   x =  517  y =  577  radius =  180
+   x =  203  y =  567  radius =  136
+   x =  515  y =  235  radius =  176
+   x =  873  y =  573  radius =  183
+   x =  219  y =  297  radius =  129
+   x =  833  y =  241  radius =  153
+Number of coins : 6
+===========================
+testing_dataset\testdata10.jpg
+   x =  211  y =  305  radius =  90
+   x =  201  y =  107  radius =  102
+   x =  401  y =  307  radius =  83
+   x =  405  y =  109  radius =  89
+Number of coins : 4
+===========================
+testing_dataset\testdata11.jpg
+   x =  351  y =  125  radius =  83
+   x =  125  y =  121  radius =  65
+Number of coins : 2
+===========================
+testing_dataset\testdata12.jpg
+   x =  799  y =  417  radius =  119
+   x =  141  y =  407  radius =  93
+   x =  363  y =  405  radius =  104
+   x =  563  y =  421  radius =  88
+Number of coins : 4
+===========================
+testing_dataset\testdata13.jpg
+   x =  155  y =  201  radius =  55
+   x =  215  y =  309  radius =  53
+   x =  319  y =  259  radius =  57
+   x =  85  y =  273  radius =  50
+   x =  181  y =  97  radius =  51
+   x =  251  y =  181  radius =  45
+   x =  275  y =  103  radius =  45
+   x =  379  y =  129  radius =  43
+Number of coins : 8
+===========================
+testing_dataset\Xmas_mistoletoe.jpg
+   x =  275  y =  317  radius =  178
+   x =  545  y =  469  radius =  165
+   x =  157  y =  279  radius =  70
+   x =  409  y =  321  radius =  131
+   x =  239  y =  215  radius =  220
+   x =  629  y =  409  radius =  154
+   x =  231  y =  493  radius =  138
+   x =  359  y =  503  radius =  131
+   x =  577  y =  145  radius =  183
+   x =  271  y =  587  radius =  211
+   x =  669  y =  227  radius =  98
+   x =  77  y =  383  radius =  202
+   x =  235  y =  101  radius =  178
+   x =  207  y =  393  radius =  75
+   x =  445  y =  451  radius =  75
+   x =  393  y =  221  radius =  70
+   x =  475  y =  135  radius =  117
+Number of coins : 17
+===========================
+testing_dataset\Love.jpg
+   x =  355  y =  229  radius =  204
+   x =  237  y =  439  radius =  125
+   x =  309  y =  319  radius =  122
+   x =  589  y =  505  radius =  187
+   x =  469  y =  397  radius =  103
+   x =  389  y =  571  radius =  183
+   x =  215  y =  579  radius =  204
+   x =  231  y =  235  radius =  92
+   x =  333  y =  483  radius =  84
+   x =  797  y =  423  radius =  134
+   x =  141  y =  473  radius =  89
+   x =  129  y =  367  radius =  68
+   x =  695  y =  125  radius =  66
+Number of coins : 13
+===========================
+testing_dataset\Love.jpg
+   x =  355  y =  229  radius =  204
+   x =  511  y =  289  radius =  222
+   x =  595  y =  401  radius =  230
+   x =  237  y =  439  radius =  125
+   x =  309  y =  319  radius =  122
+   x =  615  y =  265  radius =  221
+   x =  589  y =  505  radius =  187
+   x =  513  y =  163  radius =  245
+   x =  469  y =  397  radius =  103
+   x =  247  y =  591  radius =  191
+   x =  231  y =  235  radius =  92
+   x =  343  y =  463  radius =  87
+   x =  171  y =  515  radius =  104
+   x =  797  y =  423  radius =  134
+   x =  653  y =  153  radius =  104
+   x =  143  y =  137  radius =  200
+   x =  799  y =  199  radius =  242
+   x =  403  y =  115  radius =  84
+   x =  111  y =  255  radius =  98
+   x =  241  y =  65  radius =  132
+   x =  7  y =  397  radius =  200
+Number of coins : 21
+===========================
+testing_dataset\Love.jpg
+   x =  443  y =  433  radius =  94
+   x =  307  y =  425  radius =  61
+   x =  389  y =  347  radius =  42
+Number of coins : 3
+===========================
+testing_dataset\Love.jpg
+   x =  453  y =  215  radius =  136
+Number of coins : 1
+===========================
+testing_dataset\Love.jpg
+===========================
+testing_dataset\Love.jpg
+===========================
+testing_dataset\Love.jpg
+   x =  279  y =  293  radius =  147
+   x =  427  y =  423  radius =  109
+   x =  425  y =  219  radius =  133
+   x =  179  y =  419  radius =  78
+Number of coins : 4
+===========================
+testing_dataset\Love.jpg
+   x =  279  y =  293  radius =  147
+   x =  427  y =  423  radius =  109
+   x =  425  y =  219  radius =  133
+   x =  179  y =  419  radius =  78
+Number of coins : 4
+===========================
+testing_dataset\Love.jpg
+   x =  355  y =  229  radius =  204
+   x =  237  y =  439  radius =  125
+   x =  309  y =  319  radius =  122
+   x =  589  y =  505  radius =  187
+   x =  469  y =  397  radius =  103
+   x =  389  y =  571  radius =  183
+   x =  215  y =  579  radius =  204
+   x =  231  y =  235  radius =  92
+   x =  333  y =  483  radius =  84
+   x =  797  y =  423  radius =  134
+   x =  141  y =  473  radius =  89
+   x =  129  y =  367  radius =  68
+   x =  695  y =  125  radius =  66
+Number of coins : 13
+===========================
+testing_dataset\Love.jpg
+   x =  515  y =  399  radius =  149
+   x =  323  y =  315  radius =  136
+   x =  427  y =  217  radius =  142
+   x =  247  y =  445  radius =  136
+   x =  455  y =  313  radius =  129
+   x =  543  y =  539  radius =  140
+   x =  389  y =  445  radius =  133
+   x =  267  y =  547  radius =  144
+   x =  661  y =  219  radius =  105
+   x =  215  y =  287  radius =  142
+   x =  145  y =  361  radius =  144
+   x =  631  y =  325  radius =  147
+   x =  655  y =  425  radius =  120
+   x =  417  y =  541  radius =  149
+   x =  207  y =  161  radius =  142
+   x =  169  y =  511  radius =  107
+   x =  799  y =  423  radius =  136
+   x =  563  y =  179  radius =  147
+   x =  61  y =  235  radius =  149
+   x =  689  y =  119  radius =  69
+   x =  639  y =  29  radius =  142
+   x =  643  y =  535  radius =  136
+   x =  313  y =  177  radius =  133
+   x =  25  y =  335  radius =  113
+   x =  299  y =  3  radius =  144
+   x =  403  y =  79  radius =  114
+   x =  745  y =  515  radius =  65
+   x =  43  y =  503  radius =  86
+   x =  731  y =  329  radius =  80
+   x =  15  y =  129  radius =  149
+   x =  181  y =  13  radius =  136
+   x =  503  y =  45  radius =  142
+   x =  795  y =  227  radius =  67
+   x =  773  y =  3  radius =  77
+Number of coins : 34
+===========================
+testing_dataset\Love.jpg
+===========================
+testing_dataset\Love.jpg
+===========================
+testing_dataset\Love.jpg
+   x =  435  y =  433  radius =  100
+Number of coins : 1
+===========================
+testing_dataset\Love.jpg
+   x =  427  y =  423  radius =  109
+   x =  175  y =  431  radius =  67
+Number of coins : 2
+===========================
+testing_dataset\Love.jpg
+   x =  279  y =  293  radius =  147
+   x =  427  y =  423  radius =  109
+   x =  425  y =  219  radius =  133
+   x =  179  y =  419  radius =  78
+Number of coins : 4
+===========================
+testing_dataset\Love.jpg
+   x =  427  y =  423  radius =  109
+   x =  441  y =  213  radius =  131
+   x =  175  y =  431  radius =  67
+Number of coins : 3
+===========================
+testing_dataset\Love.jpg
+   x =  279  y =  293  radius =  147
+   x =  427  y =  423  radius =  109
+   x =  425  y =  219  radius =  133
+   x =  179  y =  419  radius =  78
+Number of coins : 4
+===========================
+testing_dataset\Love.jpg
+   x =  279  y =  291  radius =  147
+   x =  453  y =  215  radius =  136
+   x =  451  y =  437  radius =  85
+Number of coins : 3
+===========================
+testing_dataset\Love.jpg
+   x =  453  y =  215  radius =  136
+Number of coins : 1
+===========================
+testing_dataset\Love.jpg
+   x =  453  y =  215  radius =  136
+Number of coins : 1
+===========================
+testing_dataset\Love.jpg
+   x =  453  y =  215  radius =  136
+   x =  443  y =  417  radius =  98
+Number of coins : 2
+===========================
+testing_dataset\Love.jpg
+   x =  279  y =  291  radius =  147
+   x =  453  y =  215  radius =  136
+   x =  451  y =  437  radius =  85
+Number of coins : 3
+===========================
+testing_dataset\Love.jpg
+Number of coins : 0
+===========================
+testing_dataset\Love.jpg
+   x =  279  y =  291  radius =  147
+   x =  453  y =  215  radius =  136
+   x =  451  y =  437  radius =  85
+Number of coins : 3
+===========================
+testing_dataset\Love.jpg
+Number of coins : 3
+===========================
+testing_dataset\Love.jpg
+   x =  279  y =  291  radius =  147
+   x =  453  y =  215  radius =  136
+Number of coins : 2

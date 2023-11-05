@@ -1,0 +1,11 @@
+﻿  Coin_detection.cpp
+C:\opencv4.5.0\build\include\opencv2\calib3d.hpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+C:\Users\misab\source\repos\Final_Project\Final_Project\Coin_detection.cpp(88,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\misab\source\repos\Final_Project\Final_Project\Coin_detection.cpp(145,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\misab\source\repos\Final_Project\Final_Project\Coin_detection.cpp(146,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  2 of 326 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Final_Project.vcxproj -> C:\Users\misab\source\repos\Final_Project\x64\Release\Final_Project.exe
