@@ -1,6 +1,6 @@
 # 2D Image Processing: Final Assignment
 
-##Attachments
+## Attachments
  - README.txt
  - Short_Report.pdf
  - Final_Project\Final_Project\Coin_detection.cpp(source code)
@@ -8,13 +8,13 @@
  - Final_Project\x64\Release\output(output images)
  - Final_Project\x64\Release\Output.txt
 
-##About Development Environment
+## About Development Environment
  - OS:Windows10
  - Visual Studio 2019
  - OpenCV4.5.0
  - Release x64
 
-##How To Complie The Program
+## How To Complie The Program
 1. After downloading the "Final_Project", open Final_Project.sln on Visual Studio.
 2. Change the setting as following:
    - Open [Project > Final_Project Properties].
@@ -31,7 +31,7 @@
 Then you can complie the program.
 Note: If you are a macOS or Linux user, you might need to change some "#including <header>" lines.
 
-##How To Run The Application
+## How To Run The Application
 1. Open [Tools > Command line > Developer PowerShell].
 2. Move the current directory to "x64\Release", using the following command as your reference.
  cd .\x64\Release\
@@ -42,6 +42,6 @@ e.g.) testing_dataset\testdata1.jpg
 5. Press X button if each output image shows up.
 6. You can find the output images in "output" folder and an annotation(Output.txt).
 
-##Note
+## Note
 - If necessary, you can remove the old "Output.txt". Otherwise, the result will be added the last line of the file.
 
